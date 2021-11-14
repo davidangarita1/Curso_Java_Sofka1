@@ -1,0 +1,19 @@
+
+S
+#src/main/java/com/sofka/IfElse.java,0\0\0027a5d72422241e3f3438b5204b5282d1d04f2c
+P
+ src/main/java/com/sofka/For.java,9\2\92b69eed87cd90cd90fe9a9f0e0a50df93be2841
+R
+"src/main/java/com/sofka/While.java,9\e\9e9ff13bd171f3c30eebfa41d6029b5f0e44dec3
+R
+"src/main/java/com/sofka/Break.java,d\4\d4e09cc00a007bb0ac27892e3a6a51e9aa8c3850
+Y
+)src/main/java/com/sofka/CiclosSeries.java,d\0\d0da34ae0e97db3f8c261c6595bdd0b41162d002
+V
+&src/main/java/com/sofka/Fibonacci.java,1\6\16fd798750cb74e4c984cf1d503aa71d5cfdc6a9
+S
+#src/main/java/com/sofka/Switch.java,5\f\5f6ae3e85374bba781c8806b3eb6d0db8f7a3d60
+U
+%src/main/java/com/sofka/Matrices.java,9\0\90c8b47b337e06de075c76f18617fea450564b1d
+V
+&src/main/java/com/sofka/Variables.java,8\0\80cc57a86f24d923a06a70198b51540407e30c53
