@@ -1,6 +1,4 @@
 package com.sofka;
-import com.sofka.Carro;
-import com.sofka.LeerTexto;
 
 public class Main {
     public static void main(String[] args) {
